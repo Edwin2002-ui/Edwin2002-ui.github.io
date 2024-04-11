@@ -1,7 +1,7 @@
 const boton_si = document.querySelector('#boton_si');
 
 boton_si.addEventListener('click', function () {
-    alert('Ya lo sabia corazon')
+    alert('Ya lo sabia bebé 😏')
  });
 
  const boton_no = document.querySelector('#boton_no');
